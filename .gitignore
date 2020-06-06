@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Module Contents
+01_Demo
+Module 15-Detailed-Rubric.pdf
+
+
 # Distribution / packaging
 .Python
 build/
