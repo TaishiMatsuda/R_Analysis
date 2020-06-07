@@ -45,9 +45,10 @@ One Sample t-test:
 ![Coil_ttest](Image/coil_ttest.png)
 
 ## Further Development
-#### What is the Best Way to Promote on Social Media?
-* Background: Social Media is one of the tool that the potential customer would first visit to gather the latest information. It is extremely efficient tools for the customer as it does not cost money and takes no time compared to visiting dealer shops. It is important to understand how the content of the post made to social media impact the number of potential customers visiting the automaker's web page. 
-* Method: I would perform the A/B test to measure the customer engagement after seeing two different type of post or advertisement on social media. It could be performed number of time to determine the most effective posts on social media. For example, the conventional post with link to the automaker's HP can be compared against the post with high quality images, videos, the specification of the vehicle and/or discount information. Null hypothesis would be there is no difference in number of customers who visit the web page after seeing the posts.
-* Data: This test can be performed at low cost using the already existing company's facebook or twitter accounts for the vehicle that are already in the market. Through these tools, number of people who saw the post, who clicked on the link & etc can be gathered.
+#### Fuel Efficiency
+* Background: Fuel consumption rating is one of the most important value for the customers as it highly impact the running cost of the vehicle. In addition, there are growing concerns around the environment such as global warming and many customers are highly sensible to how clean the product is.
+* Method: According to Natural Resources Canada [*1], there are specific rules or regulations around how the fuel efficiency should be tested. The fuel consumption of the engine should be tested several times for both the use within the cities and on the highways. One sample t-test can be used by comparing the mean fuel consumption of other vehicle of same class as population and the test results of MechaCar as the sample. Null hypothesis would be the mean fuel consumption of the MechaCar's engine is equal to that of other engines used by other vehicle of same class.
+* Data Gathering: As stated above, the test mothod has to follow the regulation which indicates that the values of fuel consumption rate for each vehicle can easily be gathered from the automakers' web page. We can simply use the mean value of those rate as mean for the population. Sample data can be gathered by performing test on the MechaCar's engine.
 
-#### 
+## Reference
+1. EnerGuide in Canada, Government of Canada, https://www.nrcan.gc.ca/energy-efficiency/energuide/12523
