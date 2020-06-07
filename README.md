@@ -44,3 +44,10 @@ Test results by lots:
 One Sample t-test:
 ![Coil_ttest](Image/coil_ttest.png)
 
+## Further Development
+#### What is the Best Way to Promote on Social Media?
+* Background: Social Media is one of the tool that the potential customer would first visit to gather the latest information. It is extremely efficient tools for the customer as it does not cost money and takes no time compared to visiting dealer shops. It is important to understand how the content of the post made to social media impact the number of potential customers visiting the automaker's web page. 
+* Method: I would perform the A/B test to measure the customer engagement after seeing two different type of post or advertisement on social media. It could be performed number of time to determine the most effective posts on social media. For example, the conventional post with link to the automaker's HP can be compared against the post with high quality images, videos, the specification of the vehicle and/or discount information. Null hypothesis would be there is no difference in number of customers who visit the web page after seeing the posts.
+* Data: This test can be performed at low cost using the already existing company's facebook or twitter accounts for the vehicle that are already in the market. Through these tools, number of people who saw the post, who clicked on the link & etc can be gathered.
+
+#### 
