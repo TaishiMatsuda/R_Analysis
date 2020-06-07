@@ -27,3 +27,20 @@ The results indicate that;
 * Although the r-squared value of 0.71 indicates that model describes the current dataset well, low p-value of all individual variable suggests that the model will likely not represent the future data.
 
 #### Suspension Coil
+Two tables and a image below show the summary statistics of the capacity test of the suspension coils and the result of one sample t-test. 
+The results indicate that;
+* Although overall variance is lower than the design specification of less than 100, the variance of Lot3 is clearly above the design value.
+* Compliance to design specification is extremely important for the car industry as the failure of the car could lead to a tragic accident and therefore strict significant level (0.001) should be applied.
+* Result of t-test shows p-value of 0.03, which means that the mean of the samples are statistically different from 1500.
+* Therefore the suspension coils are not meeting the design capacity and it is strongly suggested to review the manufacturing process, especially the issue that may have occured during lot 3.
+* Note one sided hypothesis is used for t-test as having a suspension with higher capacity will not cause any significant issue.
+
+Summary of all test results:
+![Coil_all](Image/all_coil.png)
+
+Test results by lots:
+![Coil_byLot](Image/coil_per_lots.png)
+
+One Sample t-test:
+![Coil_ttest](Image/coil_ttest.png)
+
